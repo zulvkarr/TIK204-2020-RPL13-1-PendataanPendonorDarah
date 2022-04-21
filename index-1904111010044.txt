@@ -1,2 +1,3 @@
 nama lengkap : mutia zahramita
 npm : 1904111010044
+prodi : Teknik Komputer
